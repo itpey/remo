@@ -14,7 +14,7 @@
 
 
 <p align="center">
-Remo is a Go package that provides in-memory key-value storage with expiration capabilities. It is designed to be a simple and efficient way to manage data with an optional time-to-live (TTL) duration for keys.
+Remo is a Go package that provides in-memory key-value storage with expiration capabilities. It is designed to be a simple and efficient way to manage data with an optional time-to-live duration for keys.
 </p>
 
 # Features
